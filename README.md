@@ -14,3 +14,4 @@
 
 ## Notes
 The solutions are written in different languages because the variety is fun. 
+The difficulty of the problem can change on Kattis website over time, its not static. The difficulty written here is the difficulty given when the problem was solved.
