@@ -10,3 +10,7 @@
 | [Just a Minute](https://open.kattis.com/problems/justaminute)      | 2020-04-09 | Python 3 | 1.7        |
 | [Rounded Buttons](https://open.kattis.com/problems/roundedbuttons) | 2020-04-09 | Python 3 | 2.8        |
 | [Hello World!](https://open.kattis.com/problems/hello)             | 2020-04-09 | Python 3 | 1.2        |
+
+
+## Notes
+The solutions are written in different languages because the variety is fun. 
