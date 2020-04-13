@@ -2,5 +2,6 @@
 notdone/
 *.exe
 *.pyc
+*.class
 scrapeReuslts.py
 scrapeResults.py
