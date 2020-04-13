@@ -7,5 +7,5 @@
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)  | 2020-04-11 | C        | 1.3        |
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit)            | 2020-04-10 | C++      | 2.9        |
 | [Just a Minute](https://open.kattis.com/problems/justaminute)      | 2020-04-09 | Python 3 | 1.7        |
-| [Hello World!](https://open.kattis.com/problems/hello)             | 2020-04-09 | Python 3 | 1.2        |
 | [Rounded Buttons](https://open.kattis.com/problems/roundedbuttons) | 2020-04-09 | Python 3 | 2.8        |
+| [Hello World!](https://open.kattis.com/problems/hello)             | 2020-04-09 | Python 3 | 1.2        |
