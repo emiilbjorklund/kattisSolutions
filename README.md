@@ -1,8 +1,9 @@
 # kattisSolutions
-[Profile](https://open.kattis.com/users/emil-bjorklund)
+[Kattis Profile](https://open.kattis.com/users/emil-bjorklund)
 
 | Problem                                                            | Date       | Language | Difficulty |
 |--------------------------------------------------------------------|------------|----------|------------|
+| [Phone List](https://open.kattis.com/problems/phonelist)           | 2020-04-13 | Java     | 4.4        |
 | [Plygon Area](https://open.kattis.com/problems/polygonarea)        | 2020-04-13 | C        | 2.9        |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)  | 2020-04-11 | C        | 1.3        |
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit)            | 2020-04-10 | C++      | 2.9        |
